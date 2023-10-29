@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1698591903,
+	"version": 1698600232,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,7 +23,6 @@
 		"images/frametime-sheet0.png",
 		"images/background-sheet0.png",
 		"images/gamelogo-sheet0.png",
-		"images/gameicon-sheet0.png",
 		"images/toucharea-sheet0.png",
 		"images/explosion-sheet0.png",
 		"images/explosion-sheet1.png",
@@ -112,7 +111,6 @@
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
-		"icon-256.png",
-		"loading-logo.png"
+		"icon-256.png"
 	]
 }
